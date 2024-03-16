@@ -219,8 +219,8 @@ def wishMe():
     else:
         speak("Good evening!")
 
-    print("I am Teja sir... Please tell me how may I help you ")
-    speak("I am Teja sir... Please tell me how may I help you ")
+    print("I am Sravani Mam... Please tell me how may I help you ")
+    speak("I am Sravani Mam... Please tell me how may I help you ")
 
 def end_running_apps():
     for proc in psutil.process_iter():
